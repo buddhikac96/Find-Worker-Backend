@@ -36,6 +36,6 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "jasmine": "^3.4.0"
+    "jasmine": "^4.0.1"
   }
 }
